@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-29T14:24:24" hostname="DESKTOP-059RCE1" time="0.005">
+  <properties/>
+  <testcase name="testRemain3" classname="ru.netology.service.CashbackHackServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
